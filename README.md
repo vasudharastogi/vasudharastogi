@@ -2,11 +2,13 @@
 
 Nice to see you stumble across this page!
 
-My background is in Computational Science — most of my projects here are C++ and HPC-based (CUDA, MPI). During my master's thesis I developed a control module for energy-efficient surrogate models within a parallel reactive transport simulation system.
-I'm currently expanding into Data & AI and application development — you'll also find a Python repo where I'm sharpening my skills and working through projects.
+Fellow techie here — Computational Science postgrad, CS grad before that, now diving into Data Engineering & Python backend development, especially anything climate/energy-transition related.
+I discovered a interest in HPC and scientific computing (C++, CUDA, MPI) during my master's, where my thesis involved developing a control module for energy-efficient surrogate models within a parallel reactive transport simulation system.
 
-- 🔭 Currently working on: advancing my Python skills and building small data & AI projects
-- 💬 Ask me about: HPC, parallel computing, scientific simulation or anything Kung Fu Panda related 🐼
+Right now I'm building the [Energy Flexibility Pipeline](https://github.com/vasudharastogi/energy-flexibility-pipeline), a project ingesting real German electricity price and weather data to decide the cheapest, most solar-friendly hours to run a home heat pump or battery — bringing that simulation/scientific-computing background together with the data engineering and backend work I'm applying for.
+
+- 🔭 Currently working on: [Energy Flexibility Pipeline](https://github.com/vasudharastogi/energy-flexibility-pipeline) — data pipeline + backend for smart home energy scheduling
+- 💬 Ask me about: HPC, parallel computing, scientific simulation, data engineering or anything Kung Fu Panda related 🐼
 - 📫 How to reach me: vasudhaa.rastogi@ymail.com
 - 😄 Pronouns: She/Her
 
