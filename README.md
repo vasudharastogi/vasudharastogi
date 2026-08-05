@@ -2,7 +2,7 @@
 
 Nice to see you stumble across this page!
 
-Fellow techie here — Computational Science postgrad, CS grad before that, now diving into Data Engineering & Python backend development, especially anything climate/energy-transition related.
+Fellow techie here — Computational Science postgrad, did CS before that, now diving into Data Engineering & Python backend development, especially anything climate/energy-transition related.
 I discovered a interest in HPC and scientific computing (C++, CUDA, MPI) during my master's, where my thesis involved developing a control module for energy-efficient surrogate models within a parallel reactive transport simulation system.
 
 Right now I'm building the [Energy Flexibility Pipeline](https://github.com/vasudharastogi/energy-flexibility-pipeline), a project ingesting real German electricity price and weather data to decide the cheapest, most solar-friendly hours to run a home heat pump or battery — bringing that simulation/scientific-computing background together with the data engineering and backend work I'm applying for.
